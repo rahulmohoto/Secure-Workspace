@@ -1,6 +1,8 @@
 # Secure-Workspace-All
-## Here you can find all the python files required for building Secure Workspace Application on CORE2 AWS Device.
+## Here you can find all the python files required for building Secure Workspace Application on CORE2 AWS Device. Also, the Lambda Functions are also included.
 ## The application is built with UIFlow MicroPython Firmware 1.12 and Build Version 1.8.1
 ## How you should arrange the files
 ![GitUpload](https://user-images.githubusercontent.com/55422483/132941525-65a0536c-89e1-4bda-ad8e-3f8d50516e97.png)
+## How are the lambda functions arranged.
+![GitUpload2](https://user-images.githubusercontent.com/55422483/132941617-f2002940-eb55-4145-8e51-0ee725ba9cd7.png)
 
