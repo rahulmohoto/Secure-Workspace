@@ -1,5 +1,5 @@
-# Secure-Workspace-All
-## Here you can find all the python files required for building Secure Workspace Application on CORE2 AWS Device. Also, the Lambda Functions are also included.
+# Secure-Workspace-*AWS-IoT-EduKit*
+## Here you can find all the python files required for building Secure Workspace Application on AWS IoT EduKit Device. Also, the Lambda Functions are also included.
 ## The application is built with UIFlow MicroPython Firmware 1.12 and Build Version 1.8.1
 ### Follow this link to get started with UIFlow MicroPython - https://docs.m5stack.com/en/quick_start/core2/m5stack_core2_get_started_MicroPython
 ## How you should arrange the files
