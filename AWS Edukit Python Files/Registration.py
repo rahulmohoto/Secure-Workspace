@@ -118,7 +118,7 @@ def A_R_GetKeyValue():
           wait_ms(2)
           break
 
-    wait_ms(50)
+    wait_ms(40)
 
     
 
@@ -163,7 +163,7 @@ def S_Z_GetKeyValue():
           wait_ms(2)
           break
 
-    wait_ms(50)
+    wait_ms(40)
 
 
 def OkButton_pressed():
